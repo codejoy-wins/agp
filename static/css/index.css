@@ -1,0 +1,17 @@
+p{
+    color: blue;
+}
+.xp{
+    color: rgb(231, 124, 142);
+}
+a{
+    text-decoration: none;
+    color: peachpuff;
+}
+a:hover{
+    color: plum;
+}
+.main{
+    margin: 3vw;
+    padding: 3vw;
+}
